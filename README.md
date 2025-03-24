@@ -45,4 +45,4 @@ The models were evaluated using:
 - *Mean Absolute Error (MAE)*
 - *Mean Squared Error (MSE)*
 
-By leveraging time series analysis, RFID tracking, and forecasting, this project provides a comprehensive solution for optimizing inventory levels. The integration of RFID technology ensures real-time data accuracy, helping service centers maintain optimal stock levels, reduce costs, and improve overall customer satisfaction.
+By leveraging time series analysis, RFID tracking, and forecasting, this project provides a comprehensive solution for optimizing inventory levels. The integration of RFID technology ensures real-time data accuracy, helping service centers maintain optimal stock levels, reduce costs, and improve overall customer satisfaction!
